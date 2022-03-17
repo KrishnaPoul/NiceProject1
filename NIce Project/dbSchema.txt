@@ -1,0 +1,4 @@
+fileName-string,(partition key)
+compressionTimestamp-string,
+creationTimestamp-string,
+deletionTimestamp-string
